@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     "mainapp",
     "authapp",
     "crispy_forms",
+    "crispy_bootstrap4",
     "debug_toolbar",
 ]
 
